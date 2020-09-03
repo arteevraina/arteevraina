@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Mobile Application Development with Node as Backend Service.
+- 🔭 I’m currently working on Flutter based Project.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on JavaScript based Projects.
 - 🤔 I’m looking for help with DataStructures and Algorithms.
