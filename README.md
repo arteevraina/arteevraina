@@ -15,7 +15,9 @@
 <a href="https://www.instagram.com/arteev.raina/">
   <img align="left" alt="Arteev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-![Profile Views](https://komarev.com/ghpvc/?username=arteevraina)
+<a href="https://github.com/artee/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=arteevraina">
+</a>
 
 <br/>
 <br/>
