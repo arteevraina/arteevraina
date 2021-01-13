@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on JavaScript based Projects.
 - 🤔 I’m looking for help with DataStructures and Algorithms.
-- 🥅 2020 Goals: Contribute more to Open Source Projects
+- 🥅 2021 Goals: Contribute more to Open Source Projects
 - 💬 Ask me about JavaScript stuff and video games you recently played.
 - 📫 How to reach me: [Twitter - @rainaarteev](https://twitter.com/rainaarteev), [LinkedIn - arteevraina](https://www.linkedin.com/in/arteevraina/)
 - 😄 Pronouns: He/His
