@@ -19,14 +19,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Flutter based Project.
 - 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on JavaScript based Projects.
-- 🤔 I’m looking for help with DataStructures and Algorithms.
+- 🤔 I’m looking for help with Data Structures and Algorithms.
 - 🥅 2021 Goals: Contribute more to Open Source Projects
-- 💬 Ask me about JavaScript stuff and video games you recently played.
 - 📫 How to reach me: [Twitter - @rainaarteev](https://twitter.com/rainaarteev), [LinkedIn - arteevraina](https://www.linkedin.com/in/arteevraina/)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I have been playing video games since 2007.
 
 [![Twitter: rainaarteev](https://img.shields.io/twitter/follow/rainaarteev?style=social)](https://twitter.com/rainaarteev)
