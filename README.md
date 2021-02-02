@@ -1,5 +1,7 @@
 ### Hello World! I'm Arteev Raina 👋
 
+![](https://komarev.com/ghpvc/?username=arteevraina&color=blueviolet)
+
 <a href="https://twitter.com/rainaarteev">
   <img align="left" alt="Arteev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
