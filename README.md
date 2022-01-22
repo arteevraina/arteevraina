@@ -1,65 +1,66 @@
-### Hello World! I'm Arteev Raina 👋
-
-![](https://komarev.com/ghpvc/?username=arteevraina&color=blueviolet)
-
-<a href="https://twitter.com/rainaarteev">
-  <img align="left" alt="Arteev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/RainaArteev">
+  <img align="left" alt="Arteev Raina | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arteevraina/">
-  <img align="left" alt="Arteev's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/arteevraina">
-  <img align="left" alt="Arteev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/arteevraina">
-  <img align="left" alt="Arteev's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/arteev.raina/">
-  <img align="left" alt="Arteev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arteev's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/>
-<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=arteevraina.arteevraina)
 
-- 🌱 I’m currently learning Flutter.
-- 🤔 I’m looking for help with Data Structures and Algorithms.
-- 🥅 2021 Goals: Contribute more to Open Source Projects
-- 📫 How to reach me: [Twitter - @rainaarteev](https://twitter.com/rainaarteev), [LinkedIn - arteevraina](https://www.linkedin.com/in/arteevraina/)
-- ⚡ Fun fact: I have been playing video games since 2007.
+<br />
 
-[![Twitter: rainaarteev](https://img.shields.io/twitter/follow/rainaarteev?style=social)](https://twitter.com/rainaarteev)
-[![Linkedin: arteevraina](https://img.shields.io/badge/-arteevraina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arteevraina/)](https://www.linkedin.com/in/arteevraina/)
-[![GitHub arteevraina](https://img.shields.io/github/followers/arteevraina?label=follow&style=social)](https://github.com/arteevraina)
+Hi, I'm Arteev Raina, a passionate self-taught Software Engineer from state of Jammu and Kashmir in India 🇮🇳. I am currently in my final year of Bachelor of Technology course at Shri Mata Vaishno Devi University, Katra.
 
-**Languages and Tools:**  
+I am experienced Software Developer skilled in Dart, Java, JavaScript and Flutter Application Development. I have been involved with multiple organizations in the past and have developed products for them and these products are currenlty in production and being used by the targeted users.
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
-[![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
+I am also an Open-Source enthusiast and maintainer. I learned a lot from the Open-Source community and I love how collaboration and knowledge sharing happened through Open-Source.
 
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
-[![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
+  <img align="right" alt="GIF" src="https://github.com/arteevraina/arteevraina/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 I am looking for Software Engineering Roles(remote also). Do you find my profile interesting? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 Ask me about Video games, Gym, Yoga, Meditation and Books.
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   46 hrs 45 mins  ███████████████████████▓░   94.88 % 
+JSON         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/arteevraina" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,982 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 669 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]()
-[![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)]()
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arteevraina&show_icons=true&theme=gotham" alt="arteevraina" />
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
-<a href="https://github.com/arteevraina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arteevraina&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/arteevraina">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arteevraina&show_icons=true&theme=light&line_height=27" alt="Arteev's github stats"/>
-</a>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
