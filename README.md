@@ -10,11 +10,11 @@
 
 <br />
 
-Hi, I'm Arteev Raina, a passionate self-taught Software Engineer from state of Jammu and Kashmir in India 🇮🇳. I am currently in my final year of Bachelor of Technology course at Shri Mata Vaishno Devi University, Katra.
+Hi, I'm Arteev Raina, a passionate self-taught Software Engineer from state of Jammu and Kashmir in India 🇮🇳. I am currently in my final year of Bachelor of Technology in Computer Science Engineering course at Shri Mata Vaishno Devi University, Katra.
 
 I am an experienced Software Developer skilled in Dart, Java, JavaScript and Flutter Application Development. I have been involved with multiple organizations in the past and have developed products for them and these products are currenlty in production and being used by the targeted users.
 
-I am also an Open-Source enthusiast and maintainer. I learned a lot from the Open-Source community and I love how collaboration and knowledge sharing happened through Open-Source.
+I am also an Open Source Enthusiast. I have contributed to many Open Source Organizations and help improve that open source project. 
 
 
   <img align="right" alt="GIF" src="https://github.com/arteevraina/arteevraina/blob/master/code.gif?raw=true" width="500" height="320" />
