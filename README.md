@@ -6,7 +6,7 @@
   <img align="left" alt="Arteev's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/arteev_raina/">
-  <img align="left" alt="Arteev's Leetcode" width="22px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06s" />
+  <img align="left" alt="Arteev's Leetcode" width="80px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06s" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arteevraina.arteevraina)
