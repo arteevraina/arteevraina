@@ -19,7 +19,7 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 
   <img align="right" alt="GIF" src="https://github.com/arteevraina/arteevraina/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 I am looking for Software Engineering Roles(remote also). Do you find my profile interesting? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 I am looking for Software Engineering Roles(remote also). Do you find my profile interesting? do reach, [email](mailto:arteevraina@gmail.com) :)
 - 💬 Ask me about Video games, Gym, Yoga, Meditation and Books.
 
 **languages and tools:**  
