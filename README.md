@@ -36,11 +36,7 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   46 hrs 45 mins  ███████████████████████▓░   94.88 % 
-JSON         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
