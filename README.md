@@ -17,7 +17,7 @@ I am an experienced Software Developer skilled in Dart, Java, JavaScript and Flu
 I am also an Open Source Enthusiast. I have contributed to many Open Source Organizations and help improve that open source project. 
 
 
-  <img align="right" alt="GIF" src="https://github.com/arteevraina/arteevraina/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" width="500" height="320" />
   
 - 💼 I am looking for Software Engineering Roles(remote also). Do you find my profile interesting? do reach, [email](mailto:arteevraina@gmail.com) :)
 - 💬 Ask me about Video games, Gym, Yoga, Meditation and Books.
