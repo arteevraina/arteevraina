@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm Arteev Raina, a passionate self-taught Software Engineer from state of Jammu and Kashmir in India 🇮🇳. I am currently in my final year of Bachelor of Technology in Computer Science Engineering course at Shri Mata Vaishno Devi University, Katra.
+Hi, I'm Arteev Raina, a passionate self-taught Software Engineer from India 🇮🇳. 
 
 I am an experienced Software Developer skilled in Dart, Java, JavaScript and Flutter Application Development. I have been involved with multiple organizations in the past and have developed products for them and these products are currenlty in production and being used by the targeted users.
 
