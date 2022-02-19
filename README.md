@@ -39,8 +39,6 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 26 mins
-
 Dart     12 hrs 24 mins  ███████████████████░░░░░░   75.48 % 
 Java     2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 % 
 Python   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
