@@ -40,12 +40,12 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Dart               17 hrs 9 mins   ███████████████████▓░░░░░   78.30 %
-HTML               1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-SCSS               1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-YAML               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Fortran            27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Dart               16 hrs 1 min    ██████████████████░░░░░░░   71.74 %
+SCSS               2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+HTML               2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+YAML               29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Fortran            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
