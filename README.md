@@ -40,12 +40,12 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Dart         10 hrs 7 mins   ████████████████▓░░░░░░░░   66.98 %
-JavaScript   3 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-Java         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Dart         10 hrs 27 mins  ██████████████████▓░░░░░░   74.83 %
+JavaScript   1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Java         1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
