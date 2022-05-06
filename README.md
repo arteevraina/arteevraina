@@ -40,9 +40,9 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Dart       11 hrs 15 mins  ██████████████████████▒░░   89.04 %
-Markdown   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Other      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Dart       10 hrs 17 mins  ██████████████████████░░░   88.21 %
+Markdown   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other      34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
