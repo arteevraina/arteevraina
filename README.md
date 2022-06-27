@@ -40,12 +40,12 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Fortran    7 hrs 22 mins   ████████████████████████▒   97.99 %
-TOML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Fortran      9 hrs 27 mins   ██████████████████████▓░░   90.14 %
+TOML         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
