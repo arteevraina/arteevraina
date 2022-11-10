@@ -40,12 +40,12 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Dart         13 hrs 1 min    ██████████████████████░░░   87.76 %
-YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Groovy       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-XML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Dart         10 hrs 14 mins  █████████████████████▒░░░   84.93 %
+YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Groovy       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+XML          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
