@@ -40,10 +40,9 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Dart         7 hrs 55 mins   █████████████████████▓░░░   86.27 %
-YAML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Fortran      36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Dart      9 hrs 16 mins   ██████████████████████░░░   88.28 %
+YAML      37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Fortran   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->
