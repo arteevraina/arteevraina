@@ -40,12 +40,12 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <!--START_SECTION:waka-->
 
 ```text
-Dart                       9 hrs 54 mins   ██████████████▓░░░░░░░░░░   58.54 %
-Python                     5 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 %
-Bash                       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-YAML                       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Markdown                   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Docker                     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Dart                       11 hrs 15 mins  ██████████████▓░░░░░░░░░░   59.18 %
+Python                     7 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.54 %
+YAML                       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Nginx configuration file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash                       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+HTML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
