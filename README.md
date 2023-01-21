@@ -36,19 +36,6 @@ I am also an Open Source Enthusiast. I have contributed to many Open Source Orga
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Python                     8 hrs 30 mins   ████████████▓░░░░░░░░░░░░   51.30 %
-Dart                       4 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-YAML                       1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Text                       57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Properties                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Fortran                    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-```
-
-<!--END_SECTION:waka-->
 
 
 
